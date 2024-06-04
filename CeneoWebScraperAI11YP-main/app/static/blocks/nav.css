@@ -1,0 +1,23 @@
+.nav__list {
+  display: flex;
+  justify-content: left;
+  list-style: none;
+}
+
+.nav__link {
+  display: flex;
+  align-items: center;
+  height: var(--nav-item-height);
+  padding-inline: 15px;
+  color: #000;  
+  text-decoration: none;
+  transition: .2s;
+}
+
+.nav__link:hover {
+  transform: scale(1.2);
+}
+
+.nav__item {
+  height: var(--nav-item-height);
+}

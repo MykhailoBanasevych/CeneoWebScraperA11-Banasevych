@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block content %}
+  <p>This is {{product_id}} product charts file</p>
+  <a type= "button" class ="btn btn-outline-dark" href="{{url_for('download_xlsx', product_id = product.product_id)}}">opinions</a>
+  {{opinions|safe}}
+{% endblock %}
