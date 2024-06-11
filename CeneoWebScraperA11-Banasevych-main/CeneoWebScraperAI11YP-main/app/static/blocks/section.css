@@ -1,0 +1,15 @@
+.section {
+  padding: 15px; 
+}
+
+.section__error {
+  display: block;
+  background-color: #ff4d4d; 
+  padding: 10px; 
+  border-radius: 8px;
+  border: 2px solid #b92020;
+  margin-block-end: 15px;
+  text-align: center;
+  font-size: 18px; 
+  color: #fff;
+}
