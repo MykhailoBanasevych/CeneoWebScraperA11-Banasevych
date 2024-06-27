@@ -1,0 +1,26 @@
+{
+    "product_id": "83390289;02517",
+    "product_name": "Maszt flagowy- Flaga Polska - 6,50 m",
+    "opinions_count": 17,
+    "pros_count": 7,
+    "cons_count": 0,
+    "average_score": 4.617647058823529,
+    "score_distribution": {
+        "0.0": 0,
+        "0.5": 0,
+        "1.0": 0,
+        "1.5": 0,
+        "2.0": 0,
+        "2.5": 0,
+        "3.0": 0,
+        "3.5": 1,
+        "4.0": 3,
+        "4.5": 4,
+        "5.0": 9
+    },
+    "recommendation_distribution": {
+        "true": 16,
+        "false": 0,
+        "NaN": 0
+    }
+}

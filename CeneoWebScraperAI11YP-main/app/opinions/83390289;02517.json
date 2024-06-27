@@ -1,0 +1,351 @@
+[
+    {
+        "opinion_id": "16813967",
+        "author": "k...k",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Produkt wysokiej jakości, dużo tańszy niż u innych dostawców.",
+            "en": "High-quality product, much cheaper than other suppliers."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-11-11 10:41:56",
+        "purchase_date": "2022-11-30 20:51:11"
+    },
+    {
+        "opinion_id": "15276771",
+        "author": "Lech",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Ocenie po krótkim okresie \"eksploatacji\" ;-)",
+            "en": "Assessment after a short period of \"operation\" ;-)"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2021-11-07 19:58:27",
+        "purchase_date": "2021-11-29 22:21:19"
+    },
+    {
+        "opinion_id": "15136767",
+        "author": "b...t",
+        "recommendation": null,
+        "score": 0.7,
+        "content": {
+            "pl": "Wykonany estetycznie ale wymaga odciągów.",
+            "en": "Made aesthetically, but requires lashings."
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2021-10-14 10:03:50",
+        "purchase_date": "2021-10-28 09:24:50"
+    },
+    {
+        "opinion_id": "14370058",
+        "author": "d...l",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Flaga. Widać że to mega Chiński produkt",
+            "en": "Flag. You can see that this is a mega Chinese product"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2021-04-18 22:33:04",
+        "purchase_date": "2021-04-28 06:39:29"
+    },
+    {
+        "opinion_id": "18643896",
+        "author": "z...a",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Super zgodne z opisem świetna jakość",
+            "en": "Super consistent with the description, great quality"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-28 07:24:25",
+        "purchase_date": "2024-05-13 16:16:19"
+    },
+    {
+        "opinion_id": "17520942",
+        "author": "w...k",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "Chyba dobrze jeszcze nie zamontowałem",
+            "en": "I guess I haven't installed it properly yet"
+        },
+        "pros": {
+            "pl": [
+                "jakość",
+                "trwałość",
+                "wygląd"
+            ],
+            "en": [
+                "quality",
+                "durability",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-05-03 22:07:59",
+        "purchase_date": "2023-05-18 10:34:06"
+    },
+    {
+        "opinion_id": "18761200",
+        "author": "r...3",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Produkt wysokiej jakości,  polecam.",
+            "en": "High quality product, I recommend."
+        },
+        "pros": {
+            "pl": [
+                "jakość",
+                "trwałość",
+                "wygląd"
+            ],
+            "en": [
+                "quality",
+                "durability",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-06-11 19:44:33",
+        "purchase_date": "2024-06-25 12:44:45"
+    },
+    {
+        "opinion_id": "17553018",
+        "author": "a...1",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok. Zgodne z opisem polecam",
+            "en": "Approx. Consistent with the description, I recommend"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-05-12 20:22:01",
+        "purchase_date": "2023-05-26 18:45:02"
+    },
+    {
+        "opinion_id": "17852523",
+        "author": "l...n",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Jest taki jak powinien byc",
+            "en": "It is as it should be"
+        },
+        "pros": {
+            "pl": [
+                "jakość",
+                "trwałość",
+                "wygląd"
+            ],
+            "en": [
+                "quality",
+                "durability",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-08-13 10:46:36",
+        "purchase_date": "2023-08-30 13:12:08"
+    },
+    {
+        "opinion_id": "17627282",
+        "author": "m...7",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Wszystko tak jak w opisie",
+            "en": "Everything as in the description"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-06-04 17:20:12",
+        "purchase_date": "2023-06-20 06:38:12"
+    },
+    {
+        "opinion_id": "17815838",
+        "author": "j...i",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "Zbyt delikatny",
+            "en": "Too gentle"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-07-29 07:59:05",
+        "purchase_date": "2023-08-18 11:16:35"
+    },
+    {
+        "opinion_id": "18665110",
+        "author": "w...j",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "bardzo dobry",
+            "en": "very good"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-03 12:08:17",
+        "purchase_date": "2024-05-21 19:29:48"
+    },
+    {
+        "opinion_id": "17598642",
+        "author": "a...1",
+        "recommendation": true,
+        "score": 1.0,
+        "content": {
+            "pl": "Ok. Pllecam",
+            "en": "Approx. I'm flying"
+        },
+        "pros": {
+            "pl": [
+                "jakość",
+                "trwałość",
+                "wygląd"
+            ],
+            "en": [
+                "quality",
+                "durability",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-05-12 20:21:25",
+        "purchase_date": "2023-06-10 14:25:46"
+    },
+    {
+        "opinion_id": "18688085",
+        "author": "j...n",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Polecam .",
+            "en": "I recommend ."
+        },
+        "pros": {
+            "pl": [
+                "jakość",
+                "trwałość",
+                "wygląd"
+            ],
+            "en": [
+                "quality",
+                "durability",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-05-05 11:16:10",
+        "purchase_date": "2024-05-31 08:48:06"
+    },
+    {
+        "opinion_id": "17591601",
+        "author": "m...8",
+        "recommendation": true,
+        "score": 0.8,
+        "content": {
+            "pl": "Dobry",
+            "en": "Good"
+        },
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-05-10 15:26:41",
+        "purchase_date": "2023-06-08 06:50:31"
+    },
+    {
+        "opinion_id": "14969579",
+        "author": "a...z",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "Lux",
+            "en": "Lux"
+        },
+        "pros": {
+            "pl": [
+                "jakość",
+                "trwałość",
+                "wygląd"
+            ],
+            "en": [
+                "quality",
+                "durability",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2021-08-28 14:10:57",
+        "purchase_date": "2021-09-17 19:52:19"
+    },
+    {
+        "opinion_id": "17964968",
+        "author": "s...i",
+        "recommendation": true,
+        "score": 0.9,
+        "content": {
+            "pl": "ok",
+            "en": "Approx"
+        },
+        "pros": {
+            "pl": [
+                "jakość",
+                "trwałość",
+                "wygląd"
+            ],
+            "en": [
+                "quality",
+                "durability",
+                "appearance"
+            ]
+        },
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2023-09-03 10:13:58",
+        "purchase_date": "2023-10-04 08:27:21"
+    }
+]

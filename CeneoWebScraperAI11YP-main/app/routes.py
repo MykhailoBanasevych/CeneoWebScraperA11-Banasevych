@@ -130,9 +130,28 @@ def author():
 def product(product_id):
   opinions = pd.read_json(f"app/opinions/{product_id}.json")
 
-  opinions['content'] = opinions['content'].apply(
-    lambda content: f"Polish: <br>{content['pl']} <br><br> English: <br>{content['en']}"
-  )
+  def format_content(content):
+    if isinstance(content, dict):
+      return f"Polish: <br>{content.get('pl')} <br><br> English: <br>{content.get('en')}"
+    return "No content available"
+
+  def format_pros(pros):
+    if isinstance(pros, dict):
+      pl_list = pros.get('pl')
+      en_list = pros.get('en')
+      return f"Polish: <br>{'<br>'.join(pl_list)} <br><br> English: <br>{'<br>'.join(en_list)}"
+    return "No pros available"
+
+  def format_cons(cons):
+    if isinstance(cons, dict):
+      pl_list = cons.get('pl')
+      en_list = cons.get('en')
+      return f"Polish: <br>{'<br>'.join(pl_list)} <br><br> English: <br>{'<br>'.join(en_list)}"
+    return "No cons available"
+
+  opinions['content'] = opinions['content'].apply(format_content)
+  opinions['pros'] = opinions['pros'].apply(format_pros)
+  opinions['cons'] = opinions['cons'].apply(format_cons)
 
   return render_template("product.html", product_id=product_id, opinions=opinions.to_html(table_id="opinions", escape=False))
 
